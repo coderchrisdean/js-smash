@@ -65,9 +65,22 @@
     --bs-link-hover-color: #0a58ca;
     --bs-code-color: #d63384;
     --bs-highlight-bg: #fff3cd;
-  }
-
-
-main > * {
+    --font-size: 100px;
     
+   }
+
+
+* {
+  
+    background-image: linear-gradient (circle at top, #167616 , #c5f6e0)
+
+  
+  
 }
+
+/* .question.list-group > * {
+
+}
+.result {
+    
+} */
